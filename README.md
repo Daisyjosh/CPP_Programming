@@ -1,5 +1,5 @@
 # CPP_Programming
-This repository showcases my daily progress in learning C++, including practice problems, concepts, and hands-on code written from scratch.
+This repository showcases my progress in learning C++, including practice problems, concepts, and hands-on code written from scratch.
 C++ Programming – Daily Learning Journey
 
 Hello there! 👋
