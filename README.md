@@ -5,7 +5,7 @@ C++ Programming – Daily Learning Journey
 Hello there! 👋
 Welcome to my C++ Programming repository.
 
-This repo contains all my daily practice programs, notes, and experiments as I learn the C++ language from scratch.
+This repo contains all my practice programs, notes, and experiments as I learn the C++ language from scratch.
 I’m documenting everything I practice — from basic syntax to advanced concepts — to track my progress and help others who are learning too.
 
 🎯 Goal of This Repository
