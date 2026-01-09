@@ -1,0 +1,30 @@
+#include <iostream>
+using namespace std;
+
+bool issorted(int *arr, int n, int i)
+{
+    if(i == n-1)
+    {
+        return true;
+    }
+    if(arr[i] > arr[i+1])  
+    {
+        return false;
+    }
+    return issorted(arr,n,i+1);
+}
+
+int main()
+{
+    int n = 5;
+    int arr[5] = {1,2,3,4,5};
+    if (issorted(arr,n,0))
+    {
+        cout << "Sorted";
+    }
+    else
+    {
+        cout << "Not sorted";
+    }
+    return 0;
+}
